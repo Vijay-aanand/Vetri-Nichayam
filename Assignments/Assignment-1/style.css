@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+    color: chocolate;
+}
+.hi{
+    margin: auto;
+    width: 400px;
+    height: 600px;
+    padding: 10px;
+   background: #2bfcd2;
+background: linear-gradient(45deg,rgba(43, 252, 210, 1) 0%, rgba(87, 199, 195, 1) 50%, rgba(85, 208, 230, 1) 75%, rgba(83, 170, 237, 1) 100%);
+}
+
+
+
+input{
+    margin-bottom: 15px;
+}
+
+
+button:hover{
+    background-color: rgb(253, 126, 15);
+    align-items: center;
+    text-align: center;
+    margin-left: 30px;
+    
+
+}
+
+ button{
+    margin-left: 30px;
+ }
+
+
+div{
+    border-radius: 10px;
+}
